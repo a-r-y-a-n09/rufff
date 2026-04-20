@@ -1,5 +1,7 @@
-x = 10
-y = 20
-unused = 123
+import os,sys  
 
-print(x + y)
+x=10  
+y=20  
+unused=123  
+
+print( x+y )
